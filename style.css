@@ -1,0 +1,21 @@
+#img {
+    width: 1500px;
+    height: 550px;
+    border: none;
+    border-radius: 10px;
+}
+
+.film-head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.film-head i {
+    float: right;
+}
+
+.conquista_text span {
+    color: orange;
+}
